@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-h8x1lh.3bf.org/sitemap.xml
